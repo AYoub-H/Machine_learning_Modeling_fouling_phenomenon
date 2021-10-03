@@ -4,16 +4,18 @@ hybrid cooling with artificial intelligence, using Linear regression and Artific
 
 ## Data Description
 
-`Fcw`: Flow cold water
+- `Fcw`: Flow cold water
 
-`Fdw`: cold water temperature
+- `Fdw`: cold water temperature
 
-`Ta`: Air temperature
+- `Ta`: Air temperature
 
-`Pa`: Puissance air
+- `Pa`: Puissance air
 
-`Thwi`: Hot water Temperature (in)
+- `Thwi`: Hot water Temperature (in)
 
-`Rh`: Relative humidity 
+- `Rh`: Relative humidity 
 
-`Thwo`: Hot water Temperature (out)
+- `Thwo`: Hot water Temperature (out)
+
+## Requirements
